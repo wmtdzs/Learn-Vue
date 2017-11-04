@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="526076ec-94bf-4aa8-9b52-a06178db0235" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.3 指令/2.1.3 指令.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.1 插值/2.1.1 插值.md" afterPath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.1 插值/2.1.1 插值.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md" afterPath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-数据绑定/2.2 分隔符/2.2 分隔符.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learn-Vue.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2.1.3 指令.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2.1.3 指令.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.3 指令/2.1.3 指令.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30769232">
+            <state vertical-scroll-proportion="-6.1538463">
               <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.2 分隔符.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02-数据绑定/2.2 分隔符/2.2 分隔符.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.46153846">
+              <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -54,6 +63,7 @@
         <option value="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.1 插值/2.1.1 插值.md" />
         <option value="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md" />
         <option value="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.3 指令/2.1.3 指令.md" />
+        <option value="$PROJECT_DIR$/02-数据绑定/2.2 分隔符/2.2 分隔符.md" />
       </list>
     </option>
   </component>
@@ -141,11 +151,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2.1 语法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2.1.3 指令" />
+              <option name="myItemId" value="2.2 分隔符" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -160,10 +166,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="02-数据绑定" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2.1 语法" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -351,8 +353,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.3 指令/2.1.3 指令.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30769232">
+        <state vertical-scroll-proportion="-6.1538463">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-数据绑定/2.2 分隔符/2.2 分隔符.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46153846">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
           <folding />
         </state>
       </provider>
