@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="526076ec-94bf-4aa8-9b52-a06178db0235" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.1 插值/2.1.1 插值.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md" afterPath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md" />
     </list>
     <ignored path="Learn-Vue.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,8 +57,8 @@
       <file leaf-file-name="2.1.2 表达式.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5370844">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.115384616">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -297,7 +296,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1046" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -376,8 +375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5370844">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.115384616">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
           <folding />
         </state>
       </provider>
