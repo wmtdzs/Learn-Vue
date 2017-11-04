@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="526076ec-94bf-4aa8-9b52-a06178db0235" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md" afterPath="$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md" />
     </list>
     <ignored path="Learn-Vue.iws" />
@@ -57,8 +56,8 @@
       <file leaf-file-name="2.1.2 表达式.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.115384616">
-              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.3846154">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -375,8 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-数据绑定/2.1 语法/2.1.2 表达式/2.1.2 表达式.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.115384616">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.3846154">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
