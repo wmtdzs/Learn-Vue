@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>v-show</title>
+</head>
+<body>
+    <div id="example">
+        <input type="text" v-model="message" placeholder="edit me">
+        <p v-show="!message">Hello!</p>
+        <p v-show="message">{{ message }}</p>
+    </div>
+</body>
+<script type="text/javascript" src="../../../lib/vue.js"></script>
+<script type="text/javascript">
+    var example = new Vue({
+        el: '#example',
+        data: {
+            message: null
+        }
+    });
+</script>
+</html>
